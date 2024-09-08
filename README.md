@@ -1,6 +1,9 @@
-# flight test June 2024
 
-## before test
+# Autonomous Real-time Wildfire Detection, Global Localization and Suppression
+
+PLease find the ROS workspace source code in `framework_code/M300_ws`
+
+## Tasks before experimetnal test
 
 - Charge batteries:
   battery of drones: big ones and small ones
