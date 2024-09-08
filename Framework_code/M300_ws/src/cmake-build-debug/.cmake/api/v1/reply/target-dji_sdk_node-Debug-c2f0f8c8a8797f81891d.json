@@ -1,0 +1,550 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "devel/lib/dji_osdk_ros/dji_sdk_node"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_install",
+			"install",
+			"target_link_libraries",
+			"add_dependencies",
+			"include_directories",
+			"gencpp_append_include_dirs",
+			"_generate_msg_cpp",
+			"include",
+			"generate_messages"
+		],
+		"files" : 
+		[
+			"dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/CMakeLists.txt",
+			"/opt/ros/noetic/share/catkin/cmake/custom_install.cmake",
+			"/opt/ros/noetic/share/gencpp/cmake/gencpp-extras.cmake",
+			"cmake-build-debug/dji_osdk_ros_cv4/cmake/dji_osdk_ros-genmsg.cmake",
+			"/opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake",
+			"dji_osdk_ros_cv4/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 80,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 134,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 102,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 98,
+				"parent" : 0
+			},
+			{
+				"file" : 5
+			},
+			{
+				"command" : 9,
+				"file" : 5,
+				"line" : 206,
+				"parent" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 307,
+				"parent" : 7
+			},
+			{
+				"file" : 3,
+				"parent" : 8
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 591,
+				"parent" : 9
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 46,
+				"parent" : 10
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 63,
+				"parent" : 11
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 262,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 67,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-std=c++11 -std=c++11 -fPIC -std=c++11 -fPIC  -g -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "ADVANCED_SENSING"
+				},
+				{
+					"define" : "ROSCONSOLE_BACKEND_LOG4CXX"
+				},
+				{
+					"define" : "ROS_BUILD_SHARED_LIBS=1"
+				},
+				{
+					"define" : "ROS_PACKAGE_NAME=\"dji_osdk_ros\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 12,
+					"path" : "/home/erfan/M300_ws/src/cmake-build-debug/devel/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/home/erfan/M300_ws/src/dji_osdk_ros_cv4/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/usr/include/libusb-1.0"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/opt/ros/noetic/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/home/erfan/M300_ws/src/dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/../../include/dji_osdk_ros_obsoleted"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/home/erfan/M300_ws/src/dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/../../include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				12,
+				13
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-fPIC -fPIC  -g -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "ADVANCED_SENSING"
+				},
+				{
+					"define" : "ROSCONSOLE_BACKEND_LOG4CXX"
+				},
+				{
+					"define" : "ROS_BUILD_SHARED_LIBS=1"
+				},
+				{
+					"define" : "ROS_PACKAGE_NAME=\"dji_osdk_ros\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 12,
+					"path" : "/home/erfan/M300_ws/src/cmake-build-debug/devel/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/home/erfan/M300_ws/src/dji_osdk_ros_cv4/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/usr/include/libusb-1.0"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/opt/ros/noetic/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/home/erfan/M300_ws/src/dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/../../include/dji_osdk_ros_obsoleted"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/home/erfan/M300_ws/src/dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/../../include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				10,
+				11
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "dji_osdk_ros_generate_messages_cpp::@25d559b189f1b839a852"
+		}
+	],
+	"id" : "dji_sdk_node::@063c04f37fd7c37b37c6",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 3,
+				"path" : "lib/dji_osdk_ros"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-std=c++11 -std=c++11 -fPIC -std=c++11 -fPIC  -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-rdynamic",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/opt/ros/noetic/lib:",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/libmessage_filters.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/libroscpp.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/libroscpp_serialization.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/libxmlrpcpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/librosconsole.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/librosconsole_log4cxx.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/librosconsole_backend_interface.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-llog4cxx",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/librostime.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/libcpp_common.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,-Bstatic",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-ldjiosdk-core",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-ldji-linker",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-ladvanced-sensing",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,-Bdynamic",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lusb-1.0",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lavcodec",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lavformat",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lavutil",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lswscale",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-ltheora",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lz",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "dji_sdk_node",
+	"nameOnDisk" : "dji_sdk_node",
+	"paths" : 
+	{
+		"build" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted",
+		"source" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/modules/dji_sdk_node_control.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/modules/dji_sdk_node_services.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/modules/dji_sdk_node.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/modules/dji_sdk_node_mission_services.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/modules/dji_sdk_node_subscriber.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/modules/dji_sdk_node_publisher.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/modules/dji_sdk_node_mobile_comm.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/modules/dji_sdk_node_payload_comm.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/modules/dji_sdk_node_time_sync.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros/modules/osdkhal_linux.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros/modules/osdkosal_linux.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/dji_linux_environment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dji_osdk_ros_cv4/src/dji_osdk_ros_obsoleted/dji_linux_helpers.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

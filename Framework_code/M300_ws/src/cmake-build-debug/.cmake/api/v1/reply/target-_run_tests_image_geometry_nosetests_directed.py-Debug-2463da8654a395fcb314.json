@@ -1,0 +1,100 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"catkin_run_tests_target",
+			"catkin_add_nosetests",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"/opt/ros/noetic/share/catkin/cmake/test/tests.cmake",
+			"/opt/ros/noetic/share/catkin/cmake/test/nosetests.cmake",
+			"cv_bridge/image_geometry/test/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 83,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 177,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 190,
+				"parent" : 2
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "tests::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "clean_test_results_image_geometry::@d4e96bd85dbc83e6447d"
+		}
+	],
+	"id" : "_run_tests_image_geometry_nosetests_directed.py::@d4e96bd85dbc83e6447d",
+	"name" : "_run_tests_image_geometry_nosetests_directed.py",
+	"paths" : 
+	{
+		"build" : "cv_bridge/image_geometry/test",
+		"source" : "cv_bridge/image_geometry/test"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/cv_bridge/image_geometry/test/CMakeFiles/_run_tests_image_geometry_nosetests_directed.py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/cv_bridge/image_geometry/test/CMakeFiles/_run_tests_image_geometry_nosetests_directed.py.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,360 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "devel/lib/libcv_bridge.so"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_install",
+			"install",
+			"target_link_libraries",
+			"add_dependencies",
+			"add_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"cv_bridge/cv_bridge/src/CMakeLists.txt",
+			"/opt/ros/noetic/share/catkin/cmake/custom_install.cmake",
+			"cv_bridge/cv_bridge/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 32,
+				"parent" : 0
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 34,
+				"parent" : 7
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -fPIC -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 6,
+					"define" : "PYTHON3"
+				},
+				{
+					"define" : "ROSCONSOLE_BACKEND_LOG4CXX"
+				},
+				{
+					"define" : "ROS_BUILD_SHARED_LIBS=1"
+				},
+				{
+					"define" : "ROS_PACKAGE_NAME=\"cv_bridge\""
+				},
+				{
+					"define" : "cv_bridge_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 8,
+					"path" : "/home/erfan/M300_ws/src/cv_bridge/cv_bridge/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/opt/ros/noetic/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/erfan/M300_ws/src/cv_bridge/cv_bridge/src/."
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/usr/include/python3.8"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/home/erfan/.local/lib/python3.8/site-packages/numpy/core/include"
+				},
+				{
+					"backtrace" : 8,
+					"isSystem" : true,
+					"path" : "/usr/include/opencv4"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "geometry_msgs_generate_messages_cpp::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "geometry_msgs_generate_messages_eus::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "geometry_msgs_generate_messages_lisp::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "geometry_msgs_generate_messages_nodejs::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "geometry_msgs_generate_messages_py::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "std_msgs_generate_messages_cpp::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "std_msgs_generate_messages_eus::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "std_msgs_generate_messages_lisp::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "std_msgs_generate_messages_nodejs::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "std_msgs_generate_messages_py::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "sensor_msgs_generate_messages_cpp::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "sensor_msgs_generate_messages_eus::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "sensor_msgs_generate_messages_lisp::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "sensor_msgs_generate_messages_nodejs::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "sensor_msgs_generate_messages_py::@25d559b189f1b839a852"
+		}
+	],
+	"id" : "cv_bridge::@2f57a04ac5d286c654dd",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 3,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 3,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/opt/ros/noetic/lib:",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/librosconsole.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/librosconsole_log4cxx.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/librosconsole_backend_interface.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-llog4cxx",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/libroscpp_serialization.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/librostime.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/opt/ros/noetic/lib/libcpp_common.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_core.so.4.2.0",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "cv_bridge",
+	"nameOnDisk" : "libcv_bridge.so",
+	"paths" : 
+	{
+		"build" : "cv_bridge/cv_bridge/src",
+		"source" : "cv_bridge/cv_bridge/src"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cv_bridge/cv_bridge/src/cv_bridge.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cv_bridge/cv_bridge/src/rgb_colors.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

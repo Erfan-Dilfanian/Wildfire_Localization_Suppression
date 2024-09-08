@@ -1,0 +1,18 @@
+general_params:
+  camera_pitch: -30
+  release_delay: -12000
+  height: 7
+  lateral_adjustment: 0  # minus is toward left
+  # gimbal_yaw_adjustment: -80
+  gimbal_yaw_adjustment: -5
+  threshold: 1.8
+  run_up_distance: 10
+  apply_fuzzy_control: true
+  velocity_max: 0.1 # fuzzy controller maximum velocity
+  user_input_lateral_adjustment: true
+  fake_fire_spot_counter_mode: true
+  yaw_rate_adjustmnet_for_circular_path: 0
+  approach_absolute_velocity: 0.8
+  time_of_approach: 17000
+  extra_yaw_adjustment: true
+

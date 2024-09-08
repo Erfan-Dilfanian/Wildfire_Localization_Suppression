@@ -1,0 +1,8 @@
+prefix=/home/erfan/M300_ws/src/cmake-build-debug/devel
+
+Name: arduino_actuator
+Description: Description of arduino_actuator
+Version: 0.9.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

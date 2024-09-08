@@ -1,0 +1,5 @@
+zigzag_params:
+  length: 10
+  width: 5
+  number: 1
+  velocity: 0.5

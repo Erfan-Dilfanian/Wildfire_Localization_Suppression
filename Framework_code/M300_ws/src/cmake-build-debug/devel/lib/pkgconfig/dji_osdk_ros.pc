@@ -1,0 +1,8 @@
+prefix=/home/erfan/M300_ws/src/cmake-build-debug/devel
+
+Name: dji_osdk_ros
+Description: Description of dji_osdk_ros
+Version: 4.0.0
+Cflags: -I/home/erfan/M300_ws/src/cmake-build-debug/devel/include -I/home/erfan/M300_ws/src/dji_osdk_ros_cv4/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime geometry_msgs nav_msgs std_msgs nmea_msgs

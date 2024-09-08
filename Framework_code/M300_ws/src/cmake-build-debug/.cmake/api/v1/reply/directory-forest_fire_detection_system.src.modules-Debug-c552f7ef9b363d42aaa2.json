@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "forest_fire_detection_system/src/modules",
+		"source" : "forest_fire_detection_system/src/modules"
+	}
+}

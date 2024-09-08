@@ -1,0 +1,186 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"_install",
+			"install",
+			"_catkin_package",
+			"catkin_package",
+			"catkin_python_setup"
+		],
+		"files" : 
+		[
+			"/opt/ros/noetic/share/catkin/cmake/custom_install.cmake",
+			"/opt/ros/noetic/share/catkin/cmake/catkin_package.cmake",
+			"cv_bridge/image_geometry/CMakeLists.txt",
+			"/opt/ros/noetic/share/catkin/cmake/catkin_python_setup.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 102,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 450,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 521,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 529,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 171,
+				"parent" : 9
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 10
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 12
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 14
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"cmake-build-debug/cv_bridge/image_geometry/catkin_generated/installspace/image_geometry.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "share/image_geometry/cmake",
+			"paths" : 
+			[
+				"cmake-build-debug/cv_bridge/image_geometry/catkin_generated/installspace/image_geometryConfig.cmake",
+				"cmake-build-debug/cv_bridge/image_geometry/catkin_generated/installspace/image_geometryConfig-version.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "share/image_geometry",
+			"paths" : 
+			[
+				"cv_bridge/image_geometry/package.xml"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"scriptFile" : "cmake-build-debug/cv_bridge/image_geometry/catkin_generated/safe_execute_install.cmake",
+			"type" : "script"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "include/image_geometry/",
+			"paths" : 
+			[
+				{
+					"from" : "cv_bridge/image_geometry/include/image_geometry",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"devel/lib/libimage_geometry.so"
+			],
+			"targetId" : "image_geometry::@2e3edc8c1d927fe6cee5",
+			"targetIndex" : 219,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "cv_bridge/image_geometry",
+		"source" : "cv_bridge/image_geometry"
+	}
+}

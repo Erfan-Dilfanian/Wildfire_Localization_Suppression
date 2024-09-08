@@ -1,0 +1,8 @@
+prefix=/home/erfan/M300_ws/src/cmake-build-debug/devel
+
+Name: forest_fire_geopositioning
+Description: Description of forest_fire_geopositioning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

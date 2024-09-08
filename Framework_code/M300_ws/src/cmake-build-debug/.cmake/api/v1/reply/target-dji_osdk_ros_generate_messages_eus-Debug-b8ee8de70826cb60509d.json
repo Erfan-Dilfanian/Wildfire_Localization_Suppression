@@ -1,0 +1,2058 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"include",
+			"generate_messages",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"cmake-build-debug/dji_osdk_ros_cv4/cmake/dji_osdk_ros-genmsg.cmake",
+			"/opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake",
+			"dji_osdk_ros_cv4/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 206,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 307,
+				"parent" : 1
+			},
+			{
+				"file" : 0,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2207,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 5264,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 5270,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 5267,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 5273,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2214,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2216,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2218,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2220,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2222,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2224,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2226,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2228,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2230,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2232,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2234,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2236,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2238,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2240,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2242,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2244,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2246,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2248,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2250,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2252,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2254,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2256,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2258,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2260,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2262,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2264,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2266,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2268,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2270,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2272,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2274,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2276,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2278,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2280,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2282,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2284,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2286,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2288,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2290,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2292,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2294,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2296,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2298,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2300,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2302,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2304,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2306,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2308,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2310,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2312,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2314,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2316,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2318,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2320,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2322,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2324,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2326,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2328,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2330,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2332,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2334,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2336,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2338,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2340,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2342,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2344,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2346,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2348,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2350,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2352,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2354,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2358,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2360,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2362,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2364,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2366,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2368,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2370,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2372,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2374,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2376,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2378,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2380,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2382,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2384,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2386,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2388,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2390,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2392,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2394,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2396,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2398,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2400,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2402,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2404,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2406,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2408,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2410,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2412,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2414,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2416,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2418,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2420,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2422,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2424,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2426,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2428,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2430,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2432,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2434,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2436,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2438,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "geometry_msgs_generate_messages_eus::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "std_msgs_generate_messages_eus::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "nav_msgs_generate_messages_eus::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "sensor_msgs_generate_messages_eus::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_FCTimeInUTC::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_JoystickParams::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_GPSUTC::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_Gimbal::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_Waypoint::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointList::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2AircraftControlActuatorFlying::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 16,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2AircraftControlActuatorRotateHeading::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2AircraftControlActuator::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 18,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2AssociateTrigger::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 19,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2CameraActuatorFocalLengthParam::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 20,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2CameraActuatorFocusParam::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 21,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2CameraActuator::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 22,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2Config::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 23,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2GimbalActuatorRotationParam::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 24,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2GimbalActuator::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 25,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2InitSetting::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 26,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2IntervalTrigger::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 27,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2ReachpointTrigger::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 28,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2SampleReachPointTrigger::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 29,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2TrajectoryTrigger::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 30,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2Action::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 31,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 32,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2MissionEventPush::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 33,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_WaypointV2MissionStatePush::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 34,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MobileData::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 35,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_PayloadData::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 36,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionWaypointAction::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 37,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionWaypoint::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 38,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionWaypointTask::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 39,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionHotpointTask::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 40,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_FlightAnomaly::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 41,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_VOPosition::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 42,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_BatteryState::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 43,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_BatteryWholeInfo::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 44,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SmartBatteryState::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 45,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SmartBatteryDynamicInfo::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 46,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_HMSPushInfo::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 47,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_GetDroneType::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 48,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_GetM300StereoParams::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 49,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_FlightTaskControl::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 50,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SetJoystickMode::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 51,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_JoystickAction::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 52,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_ObtainControlAuthority::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 53,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_KillSwitch::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 54,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_EmergencyBrake::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 55,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_GimbalAction::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 56,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraEV::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 57,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraShutterSpeed::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 58,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraAperture::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 59,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraISO::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 60,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraFocusPoint::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 61,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraTapZoomPoint::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 62,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraSetZoomPara::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 63,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraZoomCtrl::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 64,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraStartShootSinglePhoto::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 65,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraStartShootBurstPhoto::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 66,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraStartShootAEBPhoto::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 67,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraStartShootIntervalPhoto::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 68,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraStopShootPhoto::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 69,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraRecordVideoAction::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 70,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_GetWholeBatteryInfo::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 71,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_GetSingleBatteryDynamicInfo::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 72,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MFIO::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 73,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SetGoHomeAltitude::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 74,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_GetGoHomeAltitude::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 75,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SetCurrentAircraftLocAsHomePoint::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 76,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SetHomePoint::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 77,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SetupCameraH264::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 78,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SetAvoidEnable::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 79,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_GetAvoidEnable::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 80,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_InitWaypointV2Setting::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 81,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_UploadWaypointV2Mission::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 82,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_UploadWaypointV2Action::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 83,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_DownloadWaypointV2Mission::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 84,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_StartWaypointV2Mission::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 85,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_StopWaypointV2Mission::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 86,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_PauseWaypointV2Mission::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 87,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_ResumeWaypointV2Mission::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 88,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_GenerateWaypointV2Action::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 89,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SetGlobalCruisespeed::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 90,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_GetGlobalCruisespeed::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 91,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_GetHMSData::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 92,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SubscribeWaypointV2Event::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 93,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SubscribeWaypointV2State::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 94,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_Activation::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 95,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_CameraAction::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 96,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_DroneTaskControl::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 97,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SDKControlAuthority::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 98,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SetLocalPosRef::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 99,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MFIOConfig::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 100,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MFIOSetValue::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 101,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_DroneArmControl::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 102,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionStatus::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 103,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionWpAction::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 104,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionHpAction::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 105,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionWpUpload::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 106,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionWpSetSpeed::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 107,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionWpGetSpeed::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 108,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionWpGetInfo::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 109,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionHpUpload::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 110,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionHpGetInfo::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 111,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionHpUpdateYawRate::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 112,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionHpUpdateRadius::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 113,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_MissionHpResetYaw::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 114,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SendMobileData::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 115,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SendPayloadData::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 116,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SetHardSync::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 117,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_QueryDroneVersion::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 118,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_Stereo240pSubscription::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 119,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_StereoVGASubscription::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 120,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_StereoDepthSubscription::@25d559b189f1b839a852"
+		},
+		{
+			"backtrace" : 121,
+			"id" : "_dji_osdk_ros_generate_messages_check_deps_SetupCameraStream::@25d559b189f1b839a852"
+		}
+	],
+	"id" : "dji_osdk_ros_generate_messages_eus::@25d559b189f1b839a852",
+	"name" : "dji_osdk_ros_generate_messages_eus",
+	"paths" : 
+	{
+		"build" : "dji_osdk_ros_cv4",
+		"source" : "dji_osdk_ros_cv4"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/dji_osdk_ros_cv4/CMakeFiles/dji_osdk_ros_generate_messages_eus",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/dji_osdk_ros_cv4/CMakeFiles/dji_osdk_ros_generate_messages_eus.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/manifest.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/BatteryState.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/BatteryWholeInfo.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/FCTimeInUTC.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/FlightAnomaly.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/GPSUTC.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/Gimbal.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/HMSPushInfo.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/JoystickParams.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/MissionHotpointTask.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/MissionWaypoint.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/MissionWaypointAction.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/MissionWaypointTask.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/MobileData.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/PayloadData.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/SmartBatteryDynamicInfo.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/SmartBatteryState.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/VOPosition.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/Waypoint.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointList.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2Action.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2AircraftControlActuator.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2AircraftControlActuatorFlying.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2AircraftControlActuatorRotateHeading.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2AssociateTrigger.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2CameraActuator.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2CameraActuatorFocalLengthParam.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2CameraActuatorFocusParam.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2Config.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2GimbalActuator.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2GimbalActuatorRotationParam.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2InitSetting.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2IntervalTrigger.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2MissionEventPush.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2MissionStatePush.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2ReachpointTrigger.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2SampleReachPointTrigger.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/msg/WaypointV2TrajectoryTrigger.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/Activation.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraAction.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraAperture.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraEV.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraFocusPoint.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraISO.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraRecordVideoAction.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraSetZoomPara.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraShutterSpeed.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraStartShootAEBPhoto.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraStartShootBurstPhoto.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraStartShootIntervalPhoto.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraStartShootSinglePhoto.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraStopShootPhoto.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraTapZoomPoint.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/CameraZoomCtrl.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/DownloadWaypointV2Mission.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/DroneArmControl.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/DroneTaskControl.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/EmergencyBrake.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/FlightTaskControl.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/GenerateWaypointV2Action.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/GetAvoidEnable.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/GetDroneType.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/GetGlobalCruisespeed.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/GetGoHomeAltitude.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/GetHMSData.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/GetM300StereoParams.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/GetSingleBatteryDynamicInfo.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/GetWholeBatteryInfo.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/GimbalAction.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/InitWaypointV2Setting.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/JoystickAction.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/KillSwitch.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MFIO.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MFIOConfig.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MFIOSetValue.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionHpAction.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionHpGetInfo.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionHpResetYaw.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionHpUpdateRadius.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionHpUpdateYawRate.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionHpUpload.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionStatus.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionWpAction.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionWpGetInfo.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionWpGetSpeed.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionWpSetSpeed.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/MissionWpUpload.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/ObtainControlAuthority.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/PauseWaypointV2Mission.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/QueryDroneVersion.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/ResumeWaypointV2Mission.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SDKControlAuthority.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SendMobileData.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SendPayloadData.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SetAvoidEnable.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SetCurrentAircraftLocAsHomePoint.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SetGlobalCruisespeed.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SetGoHomeAltitude.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SetHardSync.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SetHomePoint.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SetJoystickMode.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SetLocalPosRef.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SetupCameraH264.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SetupCameraStream.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/StartWaypointV2Mission.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/Stereo240pSubscription.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/StereoDepthSubscription.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/StereoVGASubscription.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/StopWaypointV2Mission.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SubscribeWaypointV2Event.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/SubscribeWaypointV2State.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/UploadWaypointV2Action.l.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/devel/share/roseus/ros/dji_osdk_ros/srv/UploadWaypointV2Mission.l.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "dji_osdk_ros_cv4/src/dji_osdk_ros/modules",
+		"source" : "dji_osdk_ros_cv4/src/dji_osdk_ros/modules"
+	}
+}
