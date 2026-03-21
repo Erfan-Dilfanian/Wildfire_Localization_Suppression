@@ -1,3 +1,6 @@
+This is the source code for DJI M300 RTK Autonomous forest Fire Detection and Localization
+
+https://youtu.be/ZP2KoxtwAsg?si=7_bmx5-P8mgBvrZo
 
 # Autonomous Real-time Wildfire Detection, Global Localization and Suppression
 
