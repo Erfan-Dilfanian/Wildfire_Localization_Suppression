@@ -13,24 +13,6 @@ PLease find the ROS workspace source code in `framework_code/M300_ws`
 - Make sure you have the correct weights for detection
 - See whether geolocalization part of your code works with rosbag recorded file
 
-## checklist
-
-- iCrests
-- wood
-- lighter
-- gasoline
-- propane pit
-- fire pits
-- Colored water
-- RTK
-- DJI mini/Phantom/mavic for filming
-- Arduino
-- Tape
-- Scissor
-- Toolbox
-- Monitor
-- Keyboard
-- laptop
 
 
 ## during test
@@ -169,3 +151,22 @@ rosbag record -O m300_dataset /bounding_boxes/fire_spots /clock /dji_osdk_ros/gp
 /position/fire_spots_GPS
 /position/real_scale
 ```
+
+## Flight test checklist
+
+- iCrests
+- wood
+- lighter
+- gasoline
+- propane pit
+- fire pits
+- Colored water
+- RTK
+- DJI mini/Phantom/mavic for filming
+- Arduino
+- Tape
+- Scissor
+- Toolbox
+- Monitor
+- Keyboard
+- laptop
